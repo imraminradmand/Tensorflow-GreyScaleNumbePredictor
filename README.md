@@ -20,4 +20,7 @@ Model trained decently well and the results show
 
 # Model Results
 One example of the model running test data from the MNIST dataset
+Array is set up in a way that the index that is returned is actually the number.
+Down below you I have ploted the data at the random index that I have chosen from the dataset, and you can see that it is showing a 7.
+In the next line, you can see that the output in is index 7, which is what we'd expect, and matches up with the plot.
 <img width="649" alt="Screen Shot 2020-11-10 at 10 12 28 PM" src="https://user-images.githubusercontent.com/69999501/98771534-e2fefa80-23a1-11eb-8e93-a782eb6938de.png">
